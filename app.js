@@ -1,7 +1,7 @@
 //// inspired by Mt. Ford Studios on YouTube
 //// https://www.youtube.com/watch?v=gx_Sx5FeTAk&ab_channel=Mt.FordStudios
 
-const COLOR_BG = "black";
+const COLOR_BG = "yellow";
 const COLOR_CUBE = "purple";
 const SPEED_X = 0.05;
 const SPEED_Y = 0.15;
